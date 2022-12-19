@@ -1,0 +1,19 @@
+.nav {
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    font-style: sans;
+    margin-top: 10px;
+    align-items: center;
+   
+}
+ ul{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+Link {
+    justify-content: space-between;
+}
